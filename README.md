@@ -40,3 +40,7 @@ Click the <kbd>Program File</kbd> button.
 Select the file <code>source/build/source.ino.hex</code>.
 
 Run the simulation.
+
+# UML class diagram
+![UMLTimeUtility](https://github.com/Lisoferma/TimeUtilitiesArduino/assets/115818156/7e989579-5d8d-4205-9012-652ec063f634)
+
